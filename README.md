@@ -3,6 +3,11 @@ An Excel-based analysis exploring **reader reception** and **commercial performa
 
 ## Dashboard Preview<img width="1074" height="774" alt="P2_dashboard_review" src="https://github.com/user-attachments/assets/cc4807d5-7e96-40e2-b9ab-17445b086cf3" />
 
+## Key Metrics
+ - Total Books<br>
+ - Number of Authors<br>
+ - Average Gross Sales<br>
+ - Average Units Sold<br> 
 
 ## Reader Reception
 Examines how author categories relate to reader response by comparing:<br>
