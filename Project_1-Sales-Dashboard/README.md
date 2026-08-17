@@ -16,7 +16,7 @@ This dashboard was designed to answer the following questions:<br>
 ## Key Performance Indicators
 - Total Sales<br>
 - Total Orders<br>
-- Total Quantity Sold<br>
+- Total Units Sold<br>
 - Average Order Value<br>
 
 ## Revenue Analysis
